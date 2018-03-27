@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: gson-2.8.2.jar commons-codec-1.10.jar commons-collections4
+ -4.1.jar commons-logging-1.2.jar junit-4.12.jar log4j-1.2.17.jar curv
+ esapi-1.04.jar xmlbeans-2.6.0.jar poi-examples-3.17.jar poi-excelant-
+ 3.17.jar poi-ooxml-3.17.jar poi-ooxml-schemas-3.17.jar poi-scratchpad
+ -3.17.jar poi-3.17.jar
+Main-Class: ExcelOperator
+
